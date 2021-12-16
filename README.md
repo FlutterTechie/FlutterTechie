@@ -1,0 +1,9 @@
+- 👋 Hi, I’m @FlutterTechie
+- 👀 I’m interested in learning flutter ...
+- 🌱 I’m currently learning dart and flutter...
+- 📫 Reach me iknowflutter@gmail.com...
+
+<!---
+FlutterTechie/FlutterTechie is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+You can click the Preview link to take a look at your changes.
+--->
